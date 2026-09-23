@@ -1,0 +1,6 @@
+{
+  "name": "Gerador de Assinatura de Email - AV CORE",
+  "description": "Gerador de assinaturas de e-mail corporativas da AV CORE com preview em tempo real, cópia formatada para Gmail e Outlook, e exportação em PNG e HTML.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
